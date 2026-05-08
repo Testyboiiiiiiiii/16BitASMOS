@@ -1,3 +1,4 @@
+# DEVELOPMENT HAS PAUSED TO MAKE TIME FOR A NEW PROJECT (K/S OS)
 # 16 Bit Assembly (intel) OS
 ## How to download!
 first make sure you have NASM **(my comment saying "i learned linkers" is misleading. i only learned how to cat my files together.)**
